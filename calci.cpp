@@ -1,3 +1,5 @@
+//name:mridul khante
+
 #include<stdio.h>
 #include<conio.h>
 
